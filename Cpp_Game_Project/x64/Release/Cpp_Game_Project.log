@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cpp_Game_Project.vcxproj -> C:\Users\vanza\Desktop\cppProject\Cpp_Game_Project\x64\Release\Cpp_Game_Project.exe

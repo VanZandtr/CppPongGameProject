@@ -1,0 +1,7 @@
+﻿  win32_platform.cpp
+C:\Users\vanza\Desktop\cppProject\Cpp_Game_Project\Cpp_Game_Project\win32_platform.cpp(3,5): warning C4007: 'WinMain': must be '__stdcall'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cpp_Game_Project.vcxproj -> C:\Users\vanza\Desktop\cppProject\Cpp_Game_Project\Release\Cpp_Game_Project.exe
